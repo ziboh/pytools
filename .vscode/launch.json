@@ -10,11 +10,11 @@
             "name": "pdb: check",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}\\check.py",
+            "program": "${workspaceFolder}\\code_conversion.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                "D:\\zibo\\Documents\\encode_conversion\\test\\gbk.txt"
+                "C:\\Portable Software\\YYSpeak\\!)净化处理 - 副本.bat"
             ],
         }
     ]
